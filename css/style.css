@@ -81,5 +81,22 @@
 
 img.jumbotron-image{
   border-radius: 50%;
-  height: 50px;
+  height: 7rem;
+}
+
+#testimonial .col-lg-12 {
+  margin-top: 4rem;
+}
+
+#testimonial {
+  background-color:rgba(248, 249, 250);
+}
+
+.col-lg-12 p{
+  margin-top: 10px;
+  margin-bottom: 3rem;
+}
+
+.col-lg-3 img{
+  height: 30px;
 }
