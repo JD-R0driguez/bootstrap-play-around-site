@@ -42,7 +42,7 @@ These achievements and tools have collectively contributed to the successful dev
 Here are some SVG icons used in the project:
 
 Apple Logo:
-```html
+
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-apple mb-1" viewBox="0 0 16 16"></svg>
 
 Google Play Logo:
