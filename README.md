@@ -2,6 +2,12 @@
 
 This project is aimed at creating a platform called TinDog that allows dog owners to meet new and interesting dogs nearby. It provides a user-friendly interface and various features to enhance the user experience. Below are some of the achievements and tools used in this project:
 
+## Project Goal
+
+The primary goal of this project was to utilize the Bootstrap framework and explore its capabilities to create a functional and visually appealing website. Bootstrap provided a solid foundation for building responsive and mobile-friendly web pages. By incorporating Bootstrap components, such as the grid system, navigation bar, cards, and buttons, I was able to enhance the user experience and streamline the development process.
+
+Throughout the project, I experimented with various Bootstrap features and customized them to meet the specific requirements of TinDog. This exploration allowed me to leverage the power of Bootstrap to create a polished and professional-looking website while maintaining flexibility and ease of development.
+
 ## Achievements
 
 - Developed a responsive and visually appealing website for connecting dog owners.
