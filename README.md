@@ -56,3 +56,12 @@ Hat:
 
 Heart:
 <svg xmlns="http://www.w3.org/2000/svg" height="30" fill="currentColor" class="bi bi-arrow-through-heart" viewBox="0 0 16 16"></svg>
+
+## Usage
+
+Feel free to explore the project and interact with the site. To view the live code, click [here](https://jd-r0driguez.github.io/bootstrap-play-around-site/).
+
+
+## Credits
+
+This project is created by [JD-R0driguez] as part of the CSS web development fundamentals
